@@ -1,4 +1,4 @@
-![](VCB.jpg)
+![](umsae-electric-vehicle-control/VCB.jpg)
 
 Our latest venture into innovation saw significant enhancements on our VCB (Vehicle Control Board), since testing and implementation of previous revisions displayed a need to expand functionality and fix issues.
 
